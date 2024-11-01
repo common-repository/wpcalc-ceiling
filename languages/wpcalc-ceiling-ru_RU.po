@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wpcalc Ceiling v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-13 15:19:29+0000\n"
+"Last-Translator: Dimy4\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+
+#@ wpcalc-ceiling
+msgid "Setting Ceiling Calculator"
+msgstr "Настройка калькулятора Потолка"
+
+#@ wpcalc-ceiling
+msgid "Name ceiling"
+msgstr "Наименование"
+
+#@ wpcalc-ceiling
+msgid "Price ceiling"
+msgstr "Стоимость потолка"
+
+#@ wpcalc-ceiling
+msgid "per 1 sq.m."
+msgstr "за 1 кв. м."
+
+#@ wpcalc-ceiling
+msgid "Cost of the plinth"
+msgstr "Стоимость плинтуса"
+
+#@ wpcalc-ceiling
+msgid "per 1 m."
+msgstr "за 1 м."
+
+#@ wpcalc-ceiling
+msgid "Parameter"
+msgstr "Параметр"
+
+#@ wpcalc-ceiling
+msgid "Value"
+msgstr "Значение"
+
+#@ wpcalc-ceiling
+msgid "Fixed costs"
+msgstr "Фиксированная стоимость"
+
+#@ wpcalc-ceiling
+msgid "Cost of hole"
+msgstr "Стоимость за отверстие"
+
+#@ wpcalc-ceiling
+msgid "Course"
+msgstr "Курс"
+
+#@ wpcalc-ceiling
+msgid "Currency"
+msgstr "Валюта"
+
+#@ wpcalc-ceiling
+msgid "Text in the field Width"
+msgstr "Текст в поле Ширина"
+
+#@ wpcalc-ceiling
+msgid "Text in the field Long"
+msgstr "Текст в поле Длина"
+
+#@ wpcalc-ceiling
+msgid "Text in the field Type ceiling"
+msgstr "Текст типа потолка"
+
+#@ wpcalc-ceiling
+msgid "Text in the field Number of holes"
+msgstr "Текст в поле Количество отверстий"
+
+#@ wpcalc-ceiling
+msgid "Text button Add ceiling"
+msgstr "Текст кнопки Добавить потолок"
+
+#@ wpcalc-ceiling
+msgid "The text cost"
+msgstr "Текст Стоимости "
+
+#@ wpcalc-ceiling
+msgid "Text button Order"
+msgstr "Текст кнопки Заказать"
+
+#@ wpcalc-ceiling
+msgid "To integrate the calculator using shortcode"
+msgstr "Для интеграции калькулятора используйте шорткод"
+
+#@ wpcalc-ceiling
+msgid "If you have any questions, please contact ad@wpcalc.com. Our website"
+msgstr "По всем возникающим вопросам обращайтесь по адресу ad@wpcalc.com. Наш сайт"
+
+#@ wpcalc-ceiling
+msgid "You can purchase the full version of the calculator with sending data to the e-mail"
+msgstr "Вы можете приобрести полную версию калькулятора с отправкой данных на электронную почту"
+
+
+
